@@ -1,0 +1,17 @@
+print("Digite aqui seu nome completo:")
+nome = input()
+
+continuar = True
+
+while (continuar == True):
+    print("Agora digite o ano de seu nascimento:")
+    try:
+        ano = int(input())
+        if(ano<1922) or (ano>2022):
+            print("Erro! Digite um ano válido")
+        else:
+            idade = 2022 - ano
+            print(nome,"você tem ou fará", idade, "anos em 2022!")
+            parar = false
+    except:
+        print("Insira o ano apenas com números inteiros!")
