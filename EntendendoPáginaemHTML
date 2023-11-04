@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <span>EuroTour</span>
+        <nav>
+            <ul>
+                <li>Passagens</li>
+                <li>Hospedagens</li>
+                <li>Pontos Turísticos</li>
+            </ul>
+        </nav>
+    </header> 
+    <div>
+        <h1>Bem vindo à EuroTour!</h1>
+        <p>
+            <h2>Sobre nós:</h2>
+        </p>
+        <p>
+            <h4>EuroTour é um site que ajuda você a planejar
+                sua viagem para a Europa, desde a compra das Passagens
+                até a visita aos principais pontos turísticos do seu
+                tão sonhado destino!
+            </h4>
+        </p>
+    </div> 
+    <footer>
+        <span>EuroTour(C)</span>
+        <div>
+            <h3>Facebook</h3>
+            <h3>Instagram</h3>
+            <h3>LinkedIn</h3>
+        </div>
+    </footer>  
+</body>
+</html>
